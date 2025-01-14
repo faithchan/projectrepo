@@ -1,1 +1,1 @@
-This read me file is a guide on how to start git.
+This read me file is a guide on how to start git in collab branch.
